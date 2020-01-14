@@ -11,5 +11,7 @@ package com.sgcc.springcloud;
 public class User {
 
     private String Username;
+    private String password;
+
 
 }
